@@ -1,0 +1,2 @@
+# CurseOfTheDeadMain
+ version 4
